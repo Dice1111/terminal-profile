@@ -1,0 +1,1 @@
+this is a custom powershell script for terminal setup.
